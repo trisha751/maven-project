@@ -16,10 +16,4 @@ public class Greeter {
     return String.format("Hello, %s!", someone);
   }
 }
-
-/** {@inheritDoc} */
-
-public int checkReturnTag(final int aTagIndex,
-                          JavadocTag[] aTags,
-                          int aLineNo)
-                          
+                       
