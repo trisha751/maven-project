@@ -32,14 +32,10 @@ pipeline {
             }
         }
 
-        stage ('deploy_to_stag') {
+        stage ('deploy-to-stag') {
             steps {
                 build 'deploy-to-staging'
             }
-        }
-
-        failure {
-            echo ' Deployment failed.'
         }
     }
 }
