@@ -52,15 +52,3 @@ echo ' Deployment failed.'
 }
 }
 }
-
-
-
-	
-Click here to Reply, Reply to all or Forward
-5.88 GB (39%) of 15 GB used
-Manage
-Terms - Privacy
-Last account activity: 0 minutes ago
-Currently being used in 1 other location  Details
-	
-	
